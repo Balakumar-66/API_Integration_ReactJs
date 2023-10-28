@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  border: 2px solid black;
+}
+table th {
+  background-color: blueviolet;
+  color: #fff;
+  text-align: center;
+}
+tr:hover {
+  background-color: #f3d9fa;
+}
